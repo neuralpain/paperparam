@@ -1,6 +1,6 @@
 # paperparam 0.1.0
 
-paperparam is a package which adds custom margins and other components for a basic page setup or layout.
+Custom margins and other components for page setup or layout.
 
 ## Usage
 
