@@ -11,22 +11,22 @@ Add the package with the following code. Remember to add the asterisk `: *` at t
 ```
 
 ```typ
-#set page(margin: margin_normal)
+#set page(margin: margin-normal)
 ```
 
 ## List of parameters
 
-- margin_normal
-- margin_narrow
-- margin_moderate_x
-- margin_moderate_y
-- margin_wide_x
-- margin_wide_y
-- margin_a5_x
-- margin_a5_y
+- margin-normal
+- margin-narrow
+- margin-moderate-x
+- margin-moderate-y
+- margin-wide-x
+- margin-wide-y
+- margin-a5-x
+- margin-a5-y
 
 > Parameters with `x` and `y` should to be used together
 >
 > ```
-> #set page(margin: (x: margin_moderate_x, y: margin_moderate_y))
+> #set page(margin: (x: margin-moderate-x, y: margin-moderate-y))
 > ```

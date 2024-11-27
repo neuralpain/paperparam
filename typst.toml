@@ -7,4 +7,4 @@ license = "MIT"
 description = "For quick paper setups."
 repository = "https://github.com/neuralpain/paperparam"
 keywords = ["paperparam", "word"]
-categories = ["office", "layouts"]
+categories = ["office", "layout"]
